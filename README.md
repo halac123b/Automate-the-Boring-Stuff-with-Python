@@ -1,5 +1,4 @@
-# Python-miscellaneous-stuff
-<h3>1. Conway’s Game of Life</h3>
-<img src="Conway’s Game of Life/conway.png">
+# Automate the Boring Stuff with Python
+<img src="cover.jpg width="300px" height="700px">
 
 <!-- Automate boring stuff with Python (book) -->
